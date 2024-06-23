@@ -1,0 +1,10 @@
+.custom-add-button {
+    background-color: #ff5733; /* Custom color */
+    border-color: #ff5733; /* Match border color */
+    color: white; /* Text color */
+  }
+  
+  .custom-add-button:hover {
+    background-color: #e64a19; /* Darken color on hover */
+    border-color: #e64a19; /* Match border color on hover */
+  }

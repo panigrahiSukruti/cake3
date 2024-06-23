@@ -1,0 +1,22 @@
+{
+  "cakes": [
+    {
+      "id": "1",
+      "name": "chocolate",
+      "price": 100,
+      "imageUrl": "https://assets.winni.in/product/primary/2023/3/83223.jpeg?dpr=1&w=500"
+    },
+    {
+      "id": "2",
+      "name": "Red velvet",
+      "price": 100,
+      "imageUrl": "https://i0.wp.com/www.bakingbond.co.in/wp-content/uploads/2023/03/Red_Velvet_Cake_03.jpg?fit=520%2C520&ssl=1"
+    },
+    {
+      "id": "7a19",
+      "name": "Strawberry Cake",
+      "price": "500",
+      "imageUrl": "https://floralmall.in/wp-content/uploads/2023/02/strawberry-cake.jpg"
+    }
+  ]
+}
